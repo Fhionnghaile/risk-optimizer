@@ -11,6 +11,9 @@ Given loss scenarios and a catalogue of controls with costs, this tool computes 
 ## 3. Demo
 Frontier chart: `docs/frontier.png`. `python examples/run.py` regenerates `examples/out/frontier.csv`, `frontier.png` and `summary.md`.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Python 3.
 
