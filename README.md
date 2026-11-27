@@ -6,7 +6,7 @@
 > **Reproduce:** `pip install -e .[test] && pytest -q   # python examples/run.py`  
 > ![CI](https://github.com/fhionnghaile/risk-optimizer/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/risk-optimizer/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/risk-optimizer)
 >
-> **What this is worth:** Answers the CFO question — are we spending the right amount, on the right things — with an optimum, not a heat-map.
+> **What this is worth:** On the worked example, the optimal £400k plan cuts expected annual loss by 71% (£1.80M to £520k) and beats the common 'biggest reducer first' approach by £313k a year.
 
 
 **Claim.** Given a set of loss scenarios and a catalog of controls with costs and
